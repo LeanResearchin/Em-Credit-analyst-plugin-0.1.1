@@ -1,0 +1,19 @@
+{
+  "name": "leanrs-emerging-markets-credit-analyst",
+  "version": "0.1.1",
+  "description": "Six rating-agency-style credit notes for emerging markets / high yield corporate issuers, built on the Emerging Markets Data by LeanRS MCP: credit strengths & competitive position, debt structure & liquidity & refinancing risk, run-rate cash flow & FCF sustainability, EBITDA adjustments & earnings quality, currency mismatch & FX-adjusted leverage, and financial policy & capital allocation.",
+  "author": {
+    "name": "Lean Research Private Limited",
+    "email": "info@leanrs.com"
+  },
+  "repository": "https://github.com/Lean-Research/skills-em-credit-analyst",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": [
+    "credit-analysis",
+    "emerging-markets",
+    "high-yield",
+    "fixed-income",
+    "corporate-credit",
+    "leanrs"
+  ]
+}

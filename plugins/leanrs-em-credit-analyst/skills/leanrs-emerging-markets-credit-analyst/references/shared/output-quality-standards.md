@@ -1,0 +1,11 @@
+# Output quality standards (non-negotiable)
+
+Referenced by all six credit-analysis notes. These are the principles that hold regardless of which note you are producing. Each individual note file adds 2-6 bullets of quality checks specific to its own subject matter — those live in the note's own file, not here, because they depend on what the note is actually testing.
+
+- **Every number carries its period and its inline source link**, per [citation-hyperlinking-rules.md](./citation-hyperlinking-rules.md). Never present an estimate as a reported fact — label it and state the assumption or methodology.
+- **Never fabricate.** Not market share, not ratings, not financials, not agency commentary, not guidance, not covenant terms. If a data point is unavailable after checking the database, filings, and rating reports, write "Not available in the database or filing for [period]." and move on — do not omit the gap silently, and do not paper over it with a plausible-sounding number.
+- **Quantify, don't gesture.** A claim needs a figure or concrete supporting evidence behind it — "an approximately 45% share, defended within ±2pp over 2020-2024" not "a strong market position"; "leverage rises to 4.8x against a 5.0x covenant" not "elevated FX risk." No generic filler language. If a point cannot be supported with a number or concrete fact, cut it rather than keep it as an unsupported assertion.
+- **Keep the internal math consistent.** Figures that appear in more than one place in the same note — a header verdict, a table, a bottom-line calculation — must reconcile with each other. If Section 1 states a debt total, later sections and the header must use the same number.
+- **Connect every finding back to credit.** Each point should bear on debt service capacity, coverage, leverage trajectory, or recovery/default risk — not sit as a general business observation.
+- **Flag divergence from the rating agencies explicitly, and justify it.** Where your own reading of the evidence differs from Moody's, S&P, or Fitch's stated view, say so and explain why, rather than silently substituting your number or silently following theirs.
+- **Write in rating-agency register**: assertive, evidence-led, balanced — state the credit point as a claim, then support it immediately with the data behind it.
