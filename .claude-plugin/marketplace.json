@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "leanrs-em-credit-analyst",
+  "version": "0.1.1",
+  "description": "Rating-agency-style EM credit research on 200+ USD corporate issuers using the Emerging Markets Data by LeanRS MCP — six notes covering credit strengths, debt structure, cash flow, EBITDA quality, FX mismatch, and financial policy.",
+  "owner": {
+    "name": "Lean Research Private Limited",
+    "email": "info@leanrs.com"
+  },
+  "plugins": [
+    {
+      "name": "leanrs-em-credit-analyst",
+      "description": "Six rating-agency-style credit notes for EM / HY corporate issuers: credit strengths & competitive position, debt structure & liquidity, run-rate cash flow & FCF, EBITDA adjustments & earnings quality, currency mismatch & FX leverage, financial policy & capital allocation.",
+      "source": "./plugins/leanrs-em-credit-analyst",
+      "category": "research"
+    }
+  ]
+}
