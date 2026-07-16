@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
   "name": "leanrs-em-credit-analyst",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Rating-agency-style EM credit research on 200+ USD corporate issuers using the Emerging Markets Data by LeanRS MCP — six notes covering credit strengths, debt structure, cash flow, EBITDA quality, FX mismatch, and financial policy.",
   "owner": {
     "name": "Lean Research Private Limited",
