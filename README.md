@@ -1,6 +1,6 @@
 # LeanRS Emerging Markets Credit Analyst Skill
 
-An AI-powered skill that turns your agentic platform into an emerging markets / high yield corporate credit analyst. It automates rating-agency-style credit research and writing using [Emerging Markets Data by LeanRS](https://www.leanrs.com) MCP tools — a structured database of income statement, balance sheet, cash flow, revenue/operating, debt, and EBITDA-reconciliation data, plus company filings and recent rating agency reports, for 200+ emerging market USD corporate credits.
+An AI-powered skill that turns your agentic platform into an emerging markets / high yield corporate credit analyst. It automates rating-agency-style credit research and writing using [Emerging Markets Data by LeanRS](https://www.leanrs.com) MCP tools — a structured database of income statement, balance sheet, cash flow, revenue/operating, debt, and EBITDA-reconciliation data, plus company filings and recent rating agency reports, for 300+ emerging market USD corporate credits.
 
 ## What this skill does
 
